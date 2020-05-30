@@ -1,6 +1,6 @@
 # Multithreading
 
-C++ <thread> kütüphanesi yardımıyla basit bir dosyaya yazma işlemini farklı thread'ler yardımıyla yaptım.
+```<thread>``` kütüphanesi yardımıyla basit bir dosyaya yazma işlemini farklı thread'ler yardımıyla yaptım.
 
 ## Kullanılan kaynaklar:
 
